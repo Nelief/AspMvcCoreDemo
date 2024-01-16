@@ -1,0 +1,58 @@
+﻿@model List<MvcCoreDemo.Models.ViewModel.BlogPostDTO>
+
+<div class="bg-secondary bg-opacity-10 py-2">
+    <div class="container text-center">
+        <h1> Posts </h1>
+    </div>
+</div>
+
+<div class="container py-5">
+    @if (Model != null && Model.Any())
+    {
+        <table class="table table-hover">
+            <thead>
+                <tr class="">
+                    <th>Id</th>
+                    <th>Heading</th>
+                    <th>Page Title</th>
+                    <th>Published Date</th>
+                    <th>Author</th>
+                    <th>Visible</th>
+                    <th>Tags</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var post in Model)
+                {
+                    <tr class="">
+                        <td>@post.Id</td>
+                        <td>@post.Heading</td>
+                        <td>@post.PageTitle</td>
+                        <td>@post.PublishedDate.ToShortDateString()</td>
+                        <td>@post.Author</td>
+                        <td>@post.Visible</td>
+                        <td>
+                            <div class="d-flex pt-1 gap-1">
+                                @foreach(var tag in post.Tags)
+                                {
+                                    <span class="badge bg-secondary pt-1">@tag.Name</span>
+                                }
+                            </div>
+                        </td>
+                        <td class="d-flex justify-content-end">
+                            <div class="btn-group">
+                                <a asp-area="" asp-controller="BlogPost" asp-action="Edit" asp-route-id="@post.Id" class="btn btn-secondary" style="width:100px"><i class="bi bi-pencil"> Edit </i></a>
+                                <a asp-area="" asp-controller="BlogPost" asp-action="Delete" asp-route-id="@post.Id" class="btn btn-danger" onclick="return confirm('Are you sure?')" style="width:100px"><i class="bi bi-trash"> Delete </i></a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No Post found!</p>
+    }
+</div>

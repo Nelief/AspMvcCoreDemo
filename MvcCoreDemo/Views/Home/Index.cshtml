@@ -1,0 +1,125 @@
+﻿@model MvcCoreDemo.Models.ViewModel.HomeDTO
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> signInManager
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container col-xxl-8 px-4 py-5">
+    <div class="row align-items-center g-5 py-5">
+        <div class="col-12 col-lg-6">
+            <h1 class="display-5 fw-bold lh-1 mb-3">
+                My Blog
+            </h1>
+            <p class="lead">
+                Blog Demo App
+            </p>
+        </div>
+        <div class="col-12 col-lg-6">
+            <img src="https://images.pexels.com/photos/1459512/pexels-photo-1459512.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                 class="d-block mx-lg-auto img-fluid"
+                 width="300" />
+        </div>
+    </div>
+</div>
+
+<div class="accordion" id="accordionExample">
+    <div class="accordion-item border">
+        <h2 class="accordion-header border">
+            <button dir="rtl" class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                Accordion Item #1
+            </button>
+        </h2>
+        <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<br />
+@if (signInManager.IsSignedIn(User))
+{
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-2 text-end">
+                <b>TAGS </b>
+            </div>
+            <div class="col-10 border-2 ">
+                @if (Model != null && Model.Tags.Any())
+                {
+                    foreach (var tag in Model.Tags)
+                    {
+                        <span class="badge bg-secondary mb-3">@tag.Name</span>
+                    }
+                }
+                else
+                {
+                    <p>No tags found!</p>
+                }
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+
+            @if (Model != null && Model.Blogs.Any())
+            {
+                foreach (var blogpost in Model.Blogs.OrderBy(o => o.PublishedDate))
+                {
+                    <div class="col-6">
+                        <blogPost post="blogpost"></blogPost>
+                    </div>
+                }
+            }
+            else
+            {
+                <p>There are no visible blogs yet!</p>
+            }
+
+        </div>
+    </div>
+}
+else
+{
+    <div class="d-flex justify-content-center">
+        <h2>è necessario autenticarsi per visualizzare i post</h2>
+    </div>
+}
+
+<style>
+    .accordion-button::after { 
+        margin-left: 0 !important; 
+        margin-right:auto; 
+    }
+</style>
+
+@*  VECCHIO MARKUP POST
+    <div class="col-6">
+                        <div class="mb-5 bg-light box-shadow p-5" style="height: 600px; overflow:auto">
+                            <div class="d-flex justify-content-center" style="overflow: hidden;">
+                                <img src="@blogpost.FeaturedImageUrl    " alt="@blogpost.Heading" class="mb-2 d-block img-fluid" style="width: 100%; height: 200px; object-fit: cover;" />
+                            </div>
+                            <h2 class="mb-3">@blogpost.Heading</h2>
+                            <p class="mb-3">
+                                @foreach (var tag in blogpost.Tags)
+                                {
+                                    <span class="badge bg-secondary pt-1">@tag.Name</span>
+                                }
+                            </p>
+                            <p class="mb-3">
+                                author: @blogpost.Author
+                                <br />
+                                published date: @blogpost.PublishedDate.ToShortDateString()
+                            </p>
+                            <p class="mb-3">
+                                @blogpost.ShortDescription
+                            </p>
+                            <a class="btn btn-dark" asp-area="" asp-controller="userblog" asp-action="index" asp-route-urlhandle="@blogpost.UrlHandle">read more</a>
+                        </div>
+                    </div> *@

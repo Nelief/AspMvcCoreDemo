@@ -1,0 +1,390 @@
+2024-01-10 12:56:38.3815 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-10 12:56:38.3994 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-10 12:56:38.4143 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-10 12:56:38.4251 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 12:56:38.4434 Info Configuration initialized.
+2024-01-10 12:56:38.6821 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 14:49:57.8592 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-10 14:49:57.8758 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-10 14:49:57.8900 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-10 14:49:57.8900 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 14:49:57.9153 Info Configuration initialized.
+2024-01-10 14:49:58.1555 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 14:53:19.6676 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-10 14:53:19.6907 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-10 14:53:19.7047 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-10 14:53:19.7047 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 14:53:19.7283 Info Configuration initialized.
+2024-01-10 14:53:19.9668 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 15:02:39.4609 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-10 15:02:39.4839 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-10 15:02:39.5024 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-10 15:02:39.5162 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 15:02:39.5162 Info Configuration initialized.
+2024-01-10 15:02:39.7465 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 15:03:38.1165 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-10 15:03:38.1347 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-10 15:03:38.1463 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-10 15:03:38.1553 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 15:03:38.1553 Info Configuration initialized.
+2024-01-10 15:03:38.4034 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 15:04:49.2717 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-10 15:04:49.2921 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-10 15:04:49.3095 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-10 15:04:49.3207 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 15:04:49.3354 Info Configuration initialized.
+2024-01-10 15:04:49.5610 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 15:08:23.7397 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-10 15:08:23.7891 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-10 15:08:23.8135 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-10 15:08:23.8284 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 15:08:23.8482 Info Configuration initialized.
+2024-01-10 15:08:24.1087 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 15:16:37.9779 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-10 15:16:38.0017 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-10 15:16:38.0017 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-10 15:16:38.0225 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 15:16:38.0352 Info Configuration initialized.
+2024-01-10 15:16:38.2114 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 15:18:56.6814 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-10 15:18:56.7130 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-10 15:18:56.7337 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-10 15:18:56.7337 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 15:18:56.7625 Info Configuration initialized.
+2024-01-10 15:18:57.0306 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 15:21:29.2152 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-10 15:21:29.2404 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-10 15:21:29.2579 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-10 15:21:29.2714 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 15:21:29.2846 Info Configuration initialized.
+2024-01-10 15:21:29.5074 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 16:01:23.8741 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-10 16:01:23.8991 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-10 16:01:23.9201 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-10 16:01:23.9201 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 16:01:23.9492 Info Configuration initialized.
+2024-01-10 16:01:24.1902 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 16:04:58.7360 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-10 16:04:58.7619 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-10 16:04:58.7796 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-10 16:04:58.7796 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 16:04:58.8007 Info Configuration initialized.
+2024-01-10 16:04:58.9915 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 16:08:05.8479 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-10 16:08:05.8727 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-10 16:08:05.8887 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-10 16:08:05.8985 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 16:08:05.9128 Info Configuration initialized.
+2024-01-10 16:08:06.1301 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 16:16:18.7963 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-10 16:16:18.8251 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-10 16:16:18.8450 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-10 16:16:18.8579 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 16:16:18.8761 Info Configuration initialized.
+2024-01-10 16:16:19.2271 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 16:20:47.3100 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-10 16:20:47.3294 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-10 16:20:47.3426 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-10 16:20:47.3537 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 16:20:47.3682 Info Configuration initialized.
+2024-01-10 16:20:47.5882 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 16:25:06.4284 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-10 16:25:06.4510 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-10 16:25:06.4666 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-10 16:25:06.4806 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-10 16:25:06.4985 Info Configuration initialized.
+2024-01-10 16:25:06.7359 Info Validating config: TargetNames=controller, all, ConfigItems=52, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:20:43.3489 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:20:43.3739 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:20:43.3918 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:20:43.4053 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:20:43.4217 Info Configuration initialized.
+2024-01-16 10:20:43.8150 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:25:09.1777 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:25:09.1900 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:25:09.1977 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:25:09.1977 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:25:09.2145 Info Configuration initialized.
+2024-01-16 10:25:09.2696 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:25:25.5665 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:25:25.5848 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:25:25.5988 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:25:25.6086 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:25:25.6190 Info Configuration initialized.
+2024-01-16 10:25:25.8227 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:26:58.8087 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:26:58.8254 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:26:58.8413 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:26:58.8581 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:26:58.8763 Info Configuration initialized.
+2024-01-16 10:26:59.0636 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:27:52.5376 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:27:52.5587 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:27:52.5735 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:27:52.5735 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:27:52.5938 Info Configuration initialized.
+2024-01-16 10:27:52.8273 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:30:08.1210 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:30:08.1388 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:30:08.1557 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:30:08.1676 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:30:08.1676 Info Configuration initialized.
+2024-01-16 10:30:08.4139 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:31:12.7563 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:31:12.7776 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:31:12.7928 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:31:12.7928 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:31:12.8141 Info Configuration initialized.
+2024-01-16 10:31:13.0059 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:31:51.0243 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:31:51.0446 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:31:51.0601 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:31:51.0601 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:31:51.0808 Info Configuration initialized.
+2024-01-16 10:31:51.3013 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:32:14.2446 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:32:14.2446 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:32:14.2636 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:32:14.2636 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:32:14.2812 Info Configuration initialized.
+2024-01-16 10:32:14.3358 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:32:19.2205 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:32:19.2386 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:32:19.2961 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:32:19.3084 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:32:19.3217 Info Configuration initialized.
+2024-01-16 10:32:19.5654 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:33:47.9641 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:33:47.9641 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:33:47.9837 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:33:47.9837 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:33:48.0023 Info Configuration initialized.
+2024-01-16 10:33:48.0585 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:33:50.1457 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:33:50.1640 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:33:50.1765 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:33:50.1876 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:33:50.2004 Info Configuration initialized.
+2024-01-16 10:33:50.4249 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:37:13.7295 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:37:13.7484 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:37:13.7605 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:37:13.7605 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:37:13.7808 Info Configuration initialized.
+2024-01-16 10:37:14.0178 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:37:32.2526 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:37:32.2703 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:37:32.2850 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:37:32.2936 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:37:32.3107 Info Configuration initialized.
+2024-01-16 10:37:32.5367 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:38:03.0789 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:38:03.1009 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:38:03.1153 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:38:03.1242 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:38:03.1356 Info Configuration initialized.
+2024-01-16 10:38:03.3744 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:38:40.1588 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:38:40.1794 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:38:40.1969 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:38:40.1969 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:38:40.2254 Info Configuration initialized.
+2024-01-16 10:38:40.5367 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:39:21.0943 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:39:21.1065 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:39:21.1065 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:39:21.1233 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:39:21.1345 Info Configuration initialized.
+2024-01-16 10:39:21.1933 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:39:22.8357 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:39:22.8536 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:39:22.8536 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:39:22.8820 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:39:22.8928 Info Configuration initialized.
+2024-01-16 10:39:23.1107 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:40:06.4771 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:40:06.5051 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:40:06.5259 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:40:06.5401 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:40:06.5401 Info Configuration initialized.
+2024-01-16 10:40:06.7652 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:40:53.0554 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:40:53.0745 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:40:53.0901 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:40:53.0901 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:40:53.1124 Info Configuration initialized.
+2024-01-16 10:40:53.2958 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:41:20.3042 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:41:20.3227 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:41:20.3372 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:41:20.3372 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:41:20.3637 Info Configuration initialized.
+2024-01-16 10:41:20.5936 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:41:38.3955 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:41:38.4132 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:41:38.4288 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:41:38.4373 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:41:38.4477 Info Configuration initialized.
+2024-01-16 10:41:38.6792 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:42:15.8049 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:42:15.8234 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:42:15.8377 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:42:15.8377 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:42:15.8657 Info Configuration initialized.
+2024-01-16 10:42:16.1040 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:42:46.2954 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:42:46.3128 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:42:46.3284 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:42:46.3395 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:42:46.3395 Info Configuration initialized.
+2024-01-16 10:42:46.5854 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:43:21.1779 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:43:21.1999 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:43:21.2144 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:43:21.2144 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:43:21.2438 Info Configuration initialized.
+2024-01-16 10:43:21.5113 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:44:10.6796 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:44:10.6964 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:44:10.6964 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:44:10.7214 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:44:10.7346 Info Configuration initialized.
+2024-01-16 10:44:10.9591 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:47:01.4715 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:47:01.4880 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:47:01.5009 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:47:01.5092 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:47:01.5092 Info Configuration initialized.
+2024-01-16 10:47:01.7060 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:47:34.4011 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:47:34.4190 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:47:34.4347 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:47:34.4469 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:47:34.4469 Info Configuration initialized.
+2024-01-16 10:47:34.6817 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:48:54.1302 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:48:54.1553 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:48:54.1699 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:48:54.1818 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:48:54.1818 Info Configuration initialized.
+2024-01-16 10:48:54.4043 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:50:29.9998 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:50:30.0229 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:50:30.0411 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:50:30.0411 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:50:30.0699 Info Configuration initialized.
+2024-01-16 10:50:30.2913 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:50:57.6156 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:50:57.6358 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:50:57.6535 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:50:57.6658 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:50:57.6824 Info Configuration initialized.
+2024-01-16 10:50:57.9765 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:53:38.3283 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:53:38.3470 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:53:38.3616 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:53:38.3741 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:53:38.3867 Info Configuration initialized.
+2024-01-16 10:53:38.6000 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:54:05.7875 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:54:05.8083 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:54:05.8236 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:54:05.8236 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:54:05.8475 Info Configuration initialized.
+2024-01-16 10:54:06.0559 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:55:11.2857 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:55:11.3124 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:55:11.3319 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:55:11.3438 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:55:11.3609 Info Configuration initialized.
+2024-01-16 10:55:11.5943 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:55:29.9522 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:55:29.9701 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:55:29.9836 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:55:29.9836 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:55:30.0020 Info Configuration initialized.
+2024-01-16 10:55:30.1894 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:57:41.1801 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:57:41.1978 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:57:41.2115 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:57:41.2115 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:57:41.2337 Info Configuration initialized.
+2024-01-16 10:57:41.4865 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:57:59.6904 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:57:59.7156 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:57:59.7315 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:57:59.7315 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:57:59.7533 Info Configuration initialized.
+2024-01-16 10:57:59.9586 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:58:27.2347 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:58:27.2540 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:58:27.2691 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:58:27.2816 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:58:27.2982 Info Configuration initialized.
+2024-01-16 10:58:27.5571 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:58:49.9415 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:58:49.9610 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:58:49.9759 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:58:49.9857 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:58:49.9987 Info Configuration initialized.
+2024-01-16 10:58:50.2189 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:59:23.0604 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:59:23.0791 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:59:23.0938 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:59:23.1071 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:59:23.1212 Info Configuration initialized.
+2024-01-16 10:59:23.3587 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:59:52.6757 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 10:59:52.6933 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 10:59:52.7058 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 10:59:52.7206 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 10:59:52.7349 Info Configuration initialized.
+2024-01-16 10:59:52.9896 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 11:00:05.1941 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 11:00:05.2119 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 11:00:05.2252 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 11:00:05.2348 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 11:00:05.2456 Info Configuration initialized.
+2024-01-16 11:00:05.4439 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 11:00:19.5363 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 11:00:19.5586 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 11:00:19.5746 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 11:00:19.5865 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 11:00:19.5865 Info Configuration initialized.
+2024-01-16 11:00:19.7962 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 11:00:35.1164 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 11:00:35.1328 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 11:00:35.1463 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 11:00:35.1611 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 11:00:35.1778 Info Configuration initialized.
+2024-01-16 11:00:35.4300 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 11:01:05.0778 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 11:01:05.0963 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 11:01:05.1108 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 11:01:05.1230 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 11:01:05.1377 Info Configuration initialized.
+2024-01-16 11:01:05.3496 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 11:01:59.7928 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 11:01:59.8108 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 11:01:59.8243 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 11:01:59.8243 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 11:01:59.8476 Info Configuration initialized.
+2024-01-16 11:02:00.0990 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 11:04:37.6188 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 11:04:37.6397 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 11:04:37.6524 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 11:04:37.6524 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 11:04:37.6763 Info Configuration initialized.
+2024-01-16 11:04:37.9350 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 11:05:04.1258 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 11:05:04.1453 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 11:05:04.1609 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 11:05:04.1712 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 11:05:04.1821 Info Configuration initialized.
+2024-01-16 11:05:04.4063 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\MvcCoreDemo\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 15:32:49.4160 Info Registered target NLog.Targets.FileTarget(Name=controller)
+2024-01-16 15:32:49.4366 Info Registered target NLog.Targets.FileTarget(Name=all)
+2024-01-16 15:32:49.4545 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-16 15:32:49.4666 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\AspMvcCore\MvcCoreDemo\bin\Debug\net8.0\NLog.config
+2024-01-16 15:32:49.4805 Info Configuration initialized.
+2024-01-16 15:32:49.7640 Info Validating config: TargetNames=controller, all, ConfigItems=40, FilePath=C:\Users\mauro.malafronte\source\repos\AspMvcCore\MvcCoreDemo\bin\Debug\net8.0\NLog.config
